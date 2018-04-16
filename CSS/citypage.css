@@ -5,25 +5,7 @@ body {
     background-attachement: fixed;
     min-height: 400px;
 
-
-
 }
-
-p {
-
-    padding: 50px
-}
-
-
-
-#header{
-  background-image: url('imagescss/headerimage.jpg');
-  background-size: cover;
-  background-attachement: fixed;
-  min-height: 400px;
-  font-size:800%
-}
-
 
 
   .btn-twitter{
@@ -32,10 +14,17 @@ p {
 
   }
 
+.pad {
+  padding: 16px
+}
+
+.pad2 {
+  padding: 32px
+}
   .btn-facebook{
     background: #4868ac;
     border-color: #314776;
-    color: white;
+
 
 
   }
@@ -46,10 +35,6 @@ p {
 
   }
 
-  .social {
-    color:white;
-  }
-
-form {
-  text-align: center;
+.social {
+  color:white;
 }
