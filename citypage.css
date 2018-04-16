@@ -1,6 +1,6 @@
 body {
 
-    background-image: url('imagescss/backgroundimage.jpeg');
+    background-image: url('backgroundimage.jpeg');
     background-size: cover;
     background-attachement: fixed;
     min-height: 400px;
